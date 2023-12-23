@@ -6,9 +6,6 @@
 
 
 
-
-
-- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me odifela@gmail.com
 
