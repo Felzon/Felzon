@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Fela Odi
-- 👀 My coding journey is fueled by a love for clean and efficient code. When I'm not immersed in the world of HTML, CSS, and JavaScript, you can find me exploring the latest design trends or sipping on a cup of coffee while brainstorming my next creative project. 
+- 👀 My coding journey is fueled by a love for clean and efficient code.
+- When I'm not immersed in the world of HTML, CSS, and JavaScript, you can find me exploring the latest design trends or sipping on a cup of coffee while brainstorming my next creative project. 
 
 
 
